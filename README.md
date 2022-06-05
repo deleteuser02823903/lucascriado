@@ -7,7 +7,7 @@ saving lines of code [Telegram](t.me/brandnspace) <br>
 
 ### Find me elsewhere 🌎
 
-[Site](https://lucasmontano.com) <br>
+[Site](https://lucascriado.carrd.co) <br> 
 [Twitter](https://twitter.com/lucasbrandn) <br>
 [Instagram](https://instagram.com/lucasbrandn) <br>
 [Medium](https://medium.com/@lucascriado) <br>
