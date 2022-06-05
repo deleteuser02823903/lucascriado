@@ -1,16 +1,16 @@
-### Hi there 👋
+### hey, i'm lucas! 👋
 
-<!--
-**lucascriado/lucascriado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+studying development at [Alura](https://cursos.alura.com.br/user/lucascriado) <br>
+collecting codes and projects [Github](https://github.com/lucascriado) <br>
+creating small development content [Youtube](https://www.youtube.com/channel/UCnYznwbY_VQGRwrlvSIB3vg) <br>
+saving lines of code [Telegram](t.me/brandnspace) <br>
 
-Here are some ideas to get you started:
+### Find me elsewhere 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Site](https://lucasmontano.com) <br>
+[Twitter](https://twitter.com/lucasbrandn) <br>
+[Instagram](https://instagram.com/lucasbrandn) <br>
+[Medium](https://medium.com/@lucascriado) <br>
+
+🇧🇷 Born in São José do Rio Preto, Brazil <br>
+🇧🇷 Living in São José do Rio Preto, Brazil <br>
